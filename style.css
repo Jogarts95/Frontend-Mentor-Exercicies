@@ -125,7 +125,7 @@ h1 {
     }
 
     .card .left-column img {
-        background-image: url("images/image-product-mobile.jpg");
+        background-image: url("../Ejercicio-01-PerfumePage-Newbie/images/image-product-mobile.jpg");
         width: 100%;
         height: 21rem;
         background-size: cover;
